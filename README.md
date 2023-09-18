@@ -18,15 +18,17 @@ The Tim Hortons Store Locator is a Python-based project that allows you to explo
 
 ## Usage
 1. Clone this repository: `git clone https://github.com/zararashraf/TimHortonsStoreLocator.git`
-2. Install the required libraries: `pip install requests`
+2. Install the required libraries: `pip install requests pandas`
 3. Run the script: `python main.py`
 
 ## Screenshots
-![Uploading pic.png…]()
+![screenshot](https://github.com/zararashraf/TimHortonsStoreLocator/assets/36181292/c2ca1e87-6f8d-4824-bbe4-3b2e1be3ff11)
+
 
 ## Credits
 - Data Source: U.S. Department of Health & Human Services - CDC
 - Python Requests: https://docs.python-requests.org/en/latest/
+- Python Pandas: [https://pandas.pydata.org/en/latest/](https://pandas.pydata.org/getting_started.html)
 
 ## License
 This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to use, modify, and distribute the code as long as you provide appropriate attribution.
