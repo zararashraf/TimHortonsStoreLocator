@@ -9,7 +9,7 @@ API_URL = "https://use1-prod-th.rbictg.com/graphql"
 USER_LAT = 43.666354
 USER_LNG = -79.383539
 SEARCH_RADIUS = 15000
-FIRST_N_BRANCHES = 5
+FIRST_N_BRANCHES = 100
 
 HEADERS = {
     'Accept': 'application/json, text/javascript, */*; q=0.01',
