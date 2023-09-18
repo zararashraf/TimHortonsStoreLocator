@@ -23,7 +23,7 @@ The Tim Hortons Store Locator is a Python-based project that allows you to explo
 3. Run the script: `python main.py`
 
 ## Code Repository
-You can find the source code for this project on [GitHub](https://github.com/zararashraf/TimHortonsStoreLocator).
+You can find the source code for this project on [GitHub](https://github.com/zararashraf/TimHortonsStoreLocator/blob/main/tim_hortons_restaurants.py).
 
 
 ## Screenshots
